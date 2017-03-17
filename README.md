@@ -5,7 +5,7 @@ Helping @tylerreber learn how git works!
 
 This will be a small git playground to help some friends practice and hone their git skills!
 
-![a git gif](http://i.imgur.com/0hEwe8b.gif
+![a git gif](http://i.imgur.com/0hEwe8b.gif)
 
 ## Welcome to GitHub Pages
 
