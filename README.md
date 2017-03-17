@@ -1,3 +1,12 @@
+# help-friend-learn-git
+Helping @tylerreber learn how git works!
+
+## Why this repo?
+
+This will be a small git playground to help some friends practice and hone their git skills!
+
+![a git gif](http://i.imgur.com/0hEwe8b.gif)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/codyolsen/help-friend-learn-git/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
